@@ -1,4 +1,3 @@
-		
 -- Adventure Works | Comercial Dashboard Project KPIs
 
 -- GENERAL TAB
