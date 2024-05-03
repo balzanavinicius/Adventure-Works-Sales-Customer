@@ -1,7 +1,7 @@
 		
-		-- Adventure Works | Comercial Dashboard Project KPIs
+-- Adventure Works | Comercial Dashboard Project KPIs
 
-		-- GENERAL TAB
+-- GENERAL TAB
 
 -- 1) Total Revenue
 -- 2) Amount Sold
@@ -30,17 +30,17 @@
 
 -- SalesOrderNumber								(FactInternetSales)
 -- OrderDate									(FactInternetSales)
--- EnglishProductCategoryName					(DimProductCategory)
+-- EnglishProductCategoryName							(DimProductCategory)
 -- CustomerKey									(DimCustomer)
--- FirstName + ' ' + Last Name					(DimCustomer)
--- Gender										(DimCustomer)
--- EnglishCountryRegionName						(DimGeography)
+-- FirstName + ' ' + Last Name							(DimCustomer)
+-- Gender									(DimCustomer)
+-- EnglishCountryRegionName							(DimGeography)
 -- OrderQuantity								(FactInternetSales)
 -- SalesAmount									(FactInternetSales)
 -- TotalProductCost								(FactInternetSales)
--- Sales Amount - Total Product Cost (Profit)	(FactInternetSales)
+-- Sales Amount - Total Product Cost (Profit)					(FactInternetSales)
 
-		-- VIEW – AdventureWorks Results
+		-- VIEW â€“ AdventureWorks Results
 
 CREATE OR ALTER VIEW RESULTS_ADW AS
 SELECT
