@@ -40,9 +40,9 @@ Adventure Works is a comprehensive dataset that simulates real-world sales data.
 ## How to Use
 
 1. **Clone the Repository**:
-    \```bash
+    ```bash
     git clone https://github.com/balzanavinicius/Adventure-Works-Sales-Customer.git
-    \```
+    ```
 
 2. **SQL Scripts**:
     - Import the SQL scripts into your SQL Server.
