@@ -3,6 +3,8 @@
 
 This project leverages SQL and Power BI to analyze the sales data of Adventure Works, a fictional multinational manufacturing company. The analysis focuses on customer behavior, sales performance, and insights to drive business decisions.
 
+<iframe title="[SQL Server + PowerBI] AdventureWorks Dashboard Project" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNDIyMDgzNzAtMDU5NC00Zjk5LTgyZDMtNWNjYTFhYjY5YmUzIiwidCI6IjEyZDBjNGE5LTRlMTMtNGY0ZS1iMWI4LWJhMjNiMjQ3ZTI3YSJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 ## Project Overview
 
 Adventure Works is a comprehensive dataset that simulates real-world sales data. This project aims to demonstrate the application of Business Intelligence (BI) tools and techniques to extract meaningful insights from raw data.
@@ -57,10 +59,6 @@ Adventure Works is a comprehensive dataset that simulates real-world sales data.
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any questions or inquiries, please contact [Vinicius Balzana](mailto:your-email@example.com).
+For any questions or inquiries, please contact [Vinicius Balzana](mailto:viniciusbalzana@outlook.com).
