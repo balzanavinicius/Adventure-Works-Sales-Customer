@@ -3,7 +3,7 @@
 
 This project leverages SQL and Power BI to analyze the sales data of Adventure Works, a fictional multinational manufacturing company. The analysis focuses on customer behavior, sales performance, and insights to drive business decisions.
 
-https://app.powerbi.com/view?r=eyJrIjoiNDIyMDgzNzAtMDU5NC00Zjk5LTgyZDMtNWNjYTFhYjY5YmUzIiwidCI6IjEyZDBjNGE5LTRlMTMtNGY0ZS1iMWI4LWJhMjNiMjQ3ZTI3YSJ9
+[Visualize the Project with PowerBI](https://app.powerbi.com/view?r=eyJrIjoiNDIyMDgzNzAtMDU5NC00Zjk5LTgyZDMtNWNjYTFhYjY5YmUzIiwidCI6IjEyZDBjNGE5LTRlMTMtNGY0ZS1iMWI4LWJhMjNiMjQ3ZTI3YSJ9)
 
 ## Project Overview
 
